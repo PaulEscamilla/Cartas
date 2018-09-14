@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Animales.cs" />
     <Compile Include="Assets\Script\Carta_Animal.cs" />
+    <Compile Include="Assets\Script\Contador.cs" />
     <Compile Include="Assets\Script\Edge.cs" />
     <Compile Include="Assets\Script\Numero.cs" />
     <Reference Include="UnityEditor.StandardEvents">
